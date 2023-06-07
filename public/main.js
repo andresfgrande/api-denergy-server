@@ -1,6 +1,6 @@
 const baseUrl = `${window.location.protocol}//${window.location.hostname}`;
 console.log(window.location.protocol);
-console.log(console.log(window.location.hostname););
+console.log(window.location.hostname);
 /**
  * Simulation: call from IoT device for registering produced energy
  */
